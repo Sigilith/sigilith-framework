@@ -1,26 +1,11 @@
-Sigilith v2.1 — Symbolic Decoding Framework
-
-Sigilith is a modular, non-interpretive framework for decoding symbolic structures across mythographic, dream-logic, quantum, synesthetic, and temporal glyph systems.
-
-This version (v2.1) represents the pure symbolic edition, with all signal-processing and interpretive modules removed. Sigilith operates exclusively on structure — not meaning — and applies a universal decoding pipeline to any discrete symbolic input.
-
-🔧 Core Modules
-
-- Glyph Extraction (GE)  
-- Structural Mapping (SM)  
-- Redundancy & Stability (RS)  
-- Terrain Solve (TS)
-
-🧩 Optional Modules
-
-- Directional Stability (DS)  
-- Micro-Anchor Collapse (MAC)  
-- Legacy Phase (LP)
-
-📄 Specification
-
-The full framework is documented in Sigilithv2.1Framework.pdf.
-
+@book{nash2026sigilith,
+  author    = {Nash, K},
+  title     = {A Reproducible Structural Analysis of the Voynich Manuscript via Sigilith v1.0},
+  year      = {2026},
+  version   = {v1.0},
+  doi       = {10.17613/b5s4r-5t265},
+  url       = {Nash, K. (2026). A Reproducible Structural Analysis of the Voynich Manuscript via Sigilith v1.0. https://doi.org/10.17613/b5s4r-5t265⁠�
+}
 ⚠️ Licensing
 
 `
