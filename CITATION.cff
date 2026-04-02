@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Reproducible Structural Analysis of the Voynich Manuscript via Sigilith v1.0"
+version: "V1.0"
+doi: "10.17613/b5s4r-5t265"
+authors:
+  - given-names: K.
+    family-names: Nash
+date-released: "2026-01-01"
+url: "https://doi.org/10.17613/b5s4r-5t265"
