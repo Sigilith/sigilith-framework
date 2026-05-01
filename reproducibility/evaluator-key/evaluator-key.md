@@ -76,7 +76,7 @@ A total score within **±1 point** of the expected total is considered a match (
 | 5 — Procedural Adherence | 2 | 2 |
 | **Total** | **11** | **12** |
 
-**Notes:** One unit boundary is genuinely ambiguous (positions 6–7). A Criterion 1 score of 2 or 3 is both acceptable. See methods paper §3.1, Ambiguity Protocol.
+**Notes:** One unit boundary is genuinely ambiguous (positions 6–7). A Criterion 1 score of 2 or 3 are both acceptable. See methods paper §3.1, Ambiguity Protocol.
 
 ---
 
